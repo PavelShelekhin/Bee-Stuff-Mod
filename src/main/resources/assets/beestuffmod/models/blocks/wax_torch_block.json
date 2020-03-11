@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "layer0": "beestuffmod:blocks/wax_torch_block"
+  }
+}

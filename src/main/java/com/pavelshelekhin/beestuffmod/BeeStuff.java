@@ -1,4 +1,4 @@
-package com.pavelshelekhin.beestuff;
+package com.pavelshelekhin.beestuffmod;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
@@ -24,6 +24,7 @@ public class BeeStuff
 {
     // Directly reference a log4j logger.
     private static final Logger LOGGER = LogManager.getLogger();
+    public static final String MOD_ID = "beestuffmod";
 
     public BeeStuff() {
         // Register the setup method for modloading
